@@ -10,13 +10,15 @@
     "@solidjs/meta": "^0.28.2",
     "@solidjs/router": "^0.5.0",
     "solid-js": "1.6.1",
-    "solid-start": "0.2.3",
-    "solid-start-vercel": "0.2.3",
+    "solid-start": "0.2.5",
     "typescript": "^4.8.2",
     "undici": "^5.10.0",
     "vite": "3.1.4"
   },
   "engines": {
     "node": ">=16"
+  },
+  "dependencies": {
+    "solid-start-node": "^0.2.5"
   }
 }
